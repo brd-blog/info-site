@@ -12,7 +12,7 @@ During the COVID-19 pandemic, the Taxi and Limousine Commission is allowing all 
 
 ---
 
-![partition](/images/bednark.jpg)
+![partition]({{site.baseurl}}/images/bednark.jpg)
 
 Driver instalation $85 + Tax | Driver instalation with Face Shield Purchase $95 + Tax
 :-------------------------:|:-------------------------:
@@ -26,7 +26,7 @@ Durante la pandemia por la COVID-19, la Comisión de Taxis y Limusinas está per
 
 ---
 
-![partition](/images/bednark.jpg)
+![partition]({{site.baseurl}}/images/bednark.jpg)
 
 
 Instalación de division $85 + impuestos) | Instalación de division con compra de protector facial $95.00 + impuestos

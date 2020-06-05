@@ -10,28 +10,28 @@ You’ll find a step by step tutorial in this post. You may also come to the off
 
 How to install the `limosys` driver app on any `ios` device.
 
-## Step 1: go to your browser `safari` ![safari](/images/icons8-safari.png) and type...
+## Step 1: go to your browser `safari` ![safari]({{site.baseurl}}/images/icons8-safari.png) and type...
 > `limosys.com/ios`
 
 Browser             | Site for `ios` Download
 :-------------------------:|:-------------------------:
-![screenshot](/images/browser.png) | ![screenshot](/images/download.png)
+![screenshot]({{site.baseurl}}/images/browser.png) | ![screenshot]({{site.baseurl}}/images/download.png)
 
-## Step 2: Click on the green `download`![download](/images/icons8-download.png) button.
+## Step 2: Click on the green `download`![download]({{site.baseurl}}/images/icons8-download.png) button.
 
 Download             | Install
 :-------------------------:|:-------------------------:
-![screenshot](/images/download.png) | ![screenshot](/images/install.png)
+![screenshot]({{site.baseurl}}/images/download.png) | ![screenshot]({{site.baseurl}}/images/install.png)
 
 ## Step 3: After clicking install go to the home screen and make sure app has downloaded.   
 
 Limosys App             |  Browser Downloaded App
 :-------------------------:|:-------------------------:
-![screenshot](/images/limosys-app.png) | ![screenshot](/images/limosys-un.png)
+![screenshot]({{site.baseurl}}/images/limosys-app.png) | ![screenshot]({{site.baseurl}}/images/limosys-un.png)
 
-## Step 4: Open the `settings` app ![settings](/images/icons8-settings.png) from the home screen.
+## Step 4: Open the `settings` app ![settings]({{site.baseurl}}/images/icons8-settings.png) from the home screen.
 > Tap: `Settings > General > Device Management`
 
 Settings             | Device Management
 :-------------------------:|:-------------------------:
-![screenshot](/images/settings.png) | ![screenshot](/images/dv-management.png)
+![screenshot]({{site.baseurl}}/images/settings.png) | ![screenshot]({{site.baseurl}}/images/dv-management.png)
