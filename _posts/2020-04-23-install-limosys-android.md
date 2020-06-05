@@ -9,12 +9,12 @@ You’ll find a step by step tutorial in this post. You may also come to the off
 
 How to install the `limosys` driver app on any `android` device.
 
-## Step 1: go to your browser `crome`![crome](/images/icons8-chrome.png) and type...
+## Step 1: go to your browser `crome`![crome]({{site.baseurl}}/images/icons8-chrome.png) and type...
 > `limosys.com/android`
 
 Browser             | Site for `android` Download
 :-------------------------:|:-------------------------:
-![screenshot](/images/android-browser.jpg) | ![screenshot2](/images/android-download.jpg)
+![screenshot](/images/android-browser.jpg) | ![screenshot2]({{site.baseurl}}/images/android-download.jpg)
 
 ## Step 2: Click on the green `download`![download](/images/icons8-download.png) button.
 
