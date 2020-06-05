@@ -25,7 +25,7 @@ Download             | Install
 
 ## Step 3: After clicking install go to the home screen and make sure app has downloaded.   
 
-Install             |  Untrusted Enterprise
+Limosys App             |  Browser Downloaded App
 :-------------------------:|:-------------------------:
 ![screenshot](/images/limosys-app.png) | ![screenshot](/images/limosys-un.png)
 
