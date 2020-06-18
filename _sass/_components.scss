@@ -52,6 +52,12 @@ code {
 
   }
 
+  iframe {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
   img[alt="screenshot"] {
     border: 10px solid #24292E;
     border-radius: 12px;
