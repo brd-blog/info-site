@@ -32,7 +32,7 @@ What to bring:
 
 ---
 
-![documents]({{site.baseurl}}/images/Required-Documents.png)
+![documents]({{site.baseurl}}/images/required-documents.png)
 ---
 
 ---
