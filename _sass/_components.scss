@@ -71,6 +71,12 @@ code {
 
   }
 
+  img[alt="documents"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   blockquote {
     line-height: 1.375;
     padding-left: 20px;
