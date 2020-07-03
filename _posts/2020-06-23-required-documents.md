@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Required Docs
+title: Signup Docs
 date: 2020-06-23 09:16 -0400
 category: blog
-tags: documents
+tags: docs
 ---
 
->**`For your scheduled meeting ask for our Driver relations team − remember to bring your vehicle!`**
+> For your scheduled meeting ask for our Driver relations team − remember to bring your vehicle!
 
-What to bring:
----
+> What to bring:
+
 - **`Driver's License`**
 
 - **`TLC License`**
@@ -32,22 +32,23 @@ What to bring:
 
 ---
 
+> Documents
+
 ![documents]({{site.baseurl}}/images/required-documents.png)
----
 
 ---
-# State Inspection
----
+
+> State Inspection
+
 ![documents]({{site.baseurl}}/images/insp.png)
 
 ---
 
+> Social
 
-# Social
----
 ![documents]({{site.baseurl}}/images/social.png)
 
 ---
-# Direct Deposit Authorization
----
+> Direct Deposit Authorization
+
 ![documents]({{site.baseurl}}/images/deposit.png)

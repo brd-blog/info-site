@@ -6,18 +6,17 @@ category: blog
 tags: mask
 ---
 
-Protect Yourself & others
-
+> Protect Yourself & others
 All TLC drivers and passengers must wear a face covering.
 
-`Drivers`
+> Drivers
 
-![man-in-medical-mask]({{site.baseurl}}/images/man-in-medical-mask.jpg)
+![documents]({{site.baseurl}}/images/man-in-medical-mask.jpg)
 
-`Passengers`
+> Passengers
 
-![face-mask-on-luggage]({{site.baseurl}}/images/face-mask-on-luggage.jpg)
+![documents]({{site.baseurl}}/images/face-mask-on-luggage.jpg)
 
-`You can use a homemade mask, bandana, or a scarf.`
+> You can use a homemade mask, bandana, or a scarf.
 
-![man-wearing-bandana]({{site.baseurl}}/images/man-wearing-bandana.jpg)
+![documents]({{site.baseurl}}/images/man-wearing-bandana.jpg)
