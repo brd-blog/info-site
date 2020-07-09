@@ -4,6 +4,7 @@ title: Signup Docs
 date: 2020-06-23 09:16 -0400
 category: blog
 tags: docs
+youtubeId: ADWQ-QbPi_A
 ---
 
 > For your scheduled meeting ask for our Driver relations team − remember to bring your vehicle!
@@ -52,3 +53,9 @@ tags: docs
 > Direct Deposit Authorization
 
 ![documents]({{site.baseurl}}/images/deposit.png)
+
+---
+
+> Chase Mobile® App: How to Find Your Direct Deposit Information
+
+{% include youtubePlayer.html id=page.youtubeId %}
