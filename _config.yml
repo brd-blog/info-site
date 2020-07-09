@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Driver app Info
+title: Driver App Info
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The purpose of this site is to help drivers install Limosys and any app-related issues.
