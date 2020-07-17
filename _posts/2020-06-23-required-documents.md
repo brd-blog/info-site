@@ -31,6 +31,7 @@ youtubeId: ADWQ-QbPi_A
 
 - **`Congestion Charge Deposit $25.00`**
 
+_[`** Click here for more info on Congestion Surcharge **`](https://www1.nyc.gov/site/tlc/about/congestion-surcharge.page)_
 ---
 
 > Commercial Drivers License & TLC License
@@ -41,9 +42,13 @@ youtubeId: ADWQ-QbPi_A
 
 ---
 
-> Commercial Registration
+> Commercial Registration Card
 
-![documents]({{site.baseurl}}/images/reg.png)
+![documents]({{site.baseurl}}/images/reg1.png)
+
+> _Do not send the windshield sticker picture_
+
+![documents]({{site.baseurl}}/images/reg-sticker.png)
 
 ---
 
@@ -55,15 +60,24 @@ youtubeId: ADWQ-QbPi_A
 
 ---
 
-> TLC For-Hire-Vehicle-Permit
+> TLC For-Hire-Vehicle-Permit Report
 
 ![documents]({{site.baseurl}}/images/fhv.png)
 
+> _Do not send the windshield sticker picture_
+
+![documents]({{site.baseurl}}/images/fhv-sticker.png)
+
 ---
 
-> State Inspection
+> State Inspection Report
 
 ![documents]({{site.baseurl}}/images/insp.png)
+
+> _Do not send the windshield sticker picture_
+
+![documents]({{site.baseurl}}/images/insp-sticker.png)
+
 
 ---
 > Social
