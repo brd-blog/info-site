@@ -33,9 +33,31 @@ youtubeId: ADWQ-QbPi_A
 
 ---
 
-> Documents
+> Commercial Drivers License & TLC License
 
-![documents]({{site.baseurl}}/images/required-documents.png)
+![lic]({{site.baseurl}}/images/dmv.png)
+
+![lic]({{site.baseurl}}/images/hack.png)
+
+---
+
+> Commercial Registration
+
+![documents]({{site.baseurl}}/images/reg.png)
+
+---
+
+> Fh-1 Insurance Card & COI-Certificate of Liability Insurance
+
+![documents]({{site.baseurl}}/images/fh-1.png)
+
+![documents]({{site.baseurl}}/images/coi.png)
+
+---
+
+> TLC For-Hire-Vehicle-Permit
+
+![documents]({{site.baseurl}}/images/fhv.png)
 
 ---
 
@@ -44,7 +66,6 @@ youtubeId: ADWQ-QbPi_A
 ![documents]({{site.baseurl}}/images/insp.png)
 
 ---
-
 > Social
 
 ![documents]({{site.baseurl}}/images/social.png)
