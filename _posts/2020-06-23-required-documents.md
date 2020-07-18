@@ -44,7 +44,7 @@ _[`** Click here for more info on Congestion Surcharge **`](https://www1.nyc.gov
 
 > Commercial Registration Card
 
-![documents]({{site.baseurl}}/images/reg1.png)
+![documents]({{site.baseurl}}/images/reg.png)
 
 > _Do not send the windshield sticker picture_
 
