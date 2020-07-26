@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Driver App Info
+title: BRD-BLOG
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The purpose of this site is to help drivers install Limosys and any app-related issues.
+  This blog covers Driver app download, information on requirements to sign up, and more.
 baseurl: "/info-site" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brd-blog.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brdcars83
 github_username: brd-blog
 

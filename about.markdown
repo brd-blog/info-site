@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The purpose of this page is to help drivers install `Limosys` and any app related issues.
+The main purpose of this site is to help drivers install the `Limosys` Driver app and settings.
 
 Live             | Location Settings for `ios`
 :-------------------------:|:-------------------------:
