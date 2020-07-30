@@ -71,6 +71,8 @@ _[`** Click here for more info on Congestion Surcharge **`](https://www1.nyc.gov
 ---
 
 > State Inspection Report
+>
+> - Note: This inspection is only valid for 4 months after the print date for FHV licensed vehicles.
 
 ![documents]({{site.baseurl}}/images/insp.png)
 
