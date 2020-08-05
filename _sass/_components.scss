@@ -87,6 +87,12 @@ code {
     border: 1.5px solid #d7d5d1;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
+//limosys icon
+  img[alt="limosys-icon"] {
+  border: 1px solid #d7d5d1;
+  // padding: 5px;
+  border-radius: 8px;
+}
 
   /* this part adds an icon after external links, using FontAwesome*/
 a[href^="http://"]:after, a[href^="https://"]:after {

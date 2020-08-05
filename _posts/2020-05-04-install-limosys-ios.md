@@ -36,3 +36,10 @@ Limosys App             |  Browser Downloaded App
 Settings             | Device Management
 :-------------------------:|:-------------------------:
 ![screenshot]({{site.baseurl}}/images/settings.png) | ![screenshot]({{site.baseurl}}/images/dv-management.png)
+
+## Step 5: Open the `Limosys` app ![limosys-icon]({{site.baseurl}}/images/limosys-icon.png) from the home screen.
+> `Enter Phone Number > Tap Sign in > Enter Activation Code`
+
+Enter Phone Number             | Enter Activation Code
+:-------------------------:|:-------------------------:
+![screenshot]({{site.baseurl}}/images/limosys-phnum.png) | ![screenshot]({{site.baseurl}}/images/limosys-code.png)
