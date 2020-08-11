@@ -10,8 +10,8 @@ You’ll find a step by step tutorial in this post. You may also come to the off
 
 How to install the `limosys` driver app on any `ios` device.
 
-## Step 1: go to your browser `safari` ![safari]({{site.baseurl}}/images/icons8-safari.png) and type...
-
+## Step 1: go to your browser `safari` ![safari]({{site.baseurl}}/images/icons8-safari.png) and type...`limosys.com/ios`
+### :woman_shrugging: or just click the link :link: below :arrow_lower_left: :man_facepalming:
 > [`limosys.com/ios`](https://limosys.com/ios)
 
 Browser             | Site for `ios` Download
