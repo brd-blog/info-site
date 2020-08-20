@@ -7,9 +7,9 @@ tags: docs
 youtubeId: ADWQ-QbPi_A
 ---
 
-> For your scheduled meeting ask for our Driver relations team − remember to bring your vehicle!
+> Click the :point_right: [`link`](mailto:office@brooklyncab.com) :link: to send an email :email: with your name, phone number, and a short message that you are interested in signing up.  
 
-> What to bring:
+> Required Documents
 
 - **`Driver's License`**
 

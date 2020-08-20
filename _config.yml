@@ -26,6 +26,7 @@ baseurl: "/info-site" # the subpath of your site, e.g. /blog
 url: "https://brd-blog.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brdcars83
 github_username: brd-blog
+instagram_username:
 
 # Build settings
 theme: jekyll-athena
