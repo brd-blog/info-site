@@ -13,7 +13,7 @@ Open Limosys | Press :point_down: ![start-btn]({{site.baseurl}}/images/start-btn
 
 > Once you start the app, you can bid on trips. Make sure you are on the Live screen.
 
-Live Screen :point_right: ![start-btn]({{site.baseurl}}/images/live-btn.png) | Click to bid. ![start-btn]({{site.baseurl}}/images/blue-arrow.png) The arrow will turn green ![start-btn]({{site.baseurl}}/images/green-arrow.png)
+Live Screen :point_right: ![bid-arrow]({{site.baseurl}}/images/live-btn.png) | Click to bid. ![bid-arrow]({{site.baseurl}}/images/blue-arrow.png) The arrow will turn green ![bid-arrow]({{site.baseurl}}/images/green-arrow.png)
 :-------------------------:|:-------------------------:
 ![screenshot]({{site.baseurl}}/images/limosys-live.png) | ![screenshot]({{site.baseurl}}/images/limosys-bid.png)
 
@@ -67,9 +67,9 @@ Nav to Drop Off | Click :point_down: Finalize
 
 > Flip your device horizontally.
 
- Flip horizontally ![vertical]({{site.baseurl}}/images\icons8-flip-vertical-32.png)  ![horizontally]({{site.baseurl}}/images\icons8-flip-horizontal-32.png) |  Driver's Signature :black_nib:
+ Flip horizontally ![vertical]({{site.baseurl}}/images/icons8-flip-vertical-32.png)  ![horizontally]({{site.baseurl}}/images/icons8-flip-horizontal-32.png) |  Driver's Signature :black_nib:
 :-------------------------:|:-------------------------:
-![screenshot2]({{site.baseurl}}/images/limosys-vrt.png) | ![screenshot]({{site.baseurl}}/images/limosys-hrz.png)
+![screenshot]({{site.baseurl}}/images/limosys-vrt.png) | ![screenshot]({{site.baseurl}}/images/limosys-hrz.png)
 
 > Sign and submit
 
