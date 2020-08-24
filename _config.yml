@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog covers Driver app download, information on requirements to sign up, and more.
 baseurl: "/info-site" # the subpath of your site, e.g. /blog
 url: "https://brd-blog.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: brdcars83
-github_username: brd-blog
+twitter_username:
+github_username: 
 instagram_username:
 
 # Build settings
