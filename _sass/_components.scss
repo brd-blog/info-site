@@ -70,6 +70,14 @@ code {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
   }
+  img[alt="vertical"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #24292E;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
   img[alt="horizontal"] {
   display: block;
   margin-left: auto;
