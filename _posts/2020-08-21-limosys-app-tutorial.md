@@ -68,17 +68,16 @@ Nav to Drop Off | Click :point_down: Finalize
 > 11.Flip your device horizontally, then sign.
 
 ___
- Flip your device ![vertically]({{site.baseurl}}/images/icons8-cell-vert-32.png) ![horizontally]({{site.baseurl}}/images/icons8-cell-hrzt-32.png) and sign :black_nib: (Drivers)
+   Rotate ![rotate]({{site.baseurl}}/images/icons8-rotate-50.png) your device ![vertically]({{site.baseurl}}/images/icons8-cell-vert-32.png) ![horizontally]({{site.baseurl}}/images/icons8-cell-hrzt-32.png) and sign :black_nib:
 
 ___
 
-![vertical]({{site.baseurl}}/images/limosys-vrt.png)
+<!-- ![vertical]({{site.baseurl}}/images/limosys-vrt.png) -->
 
-___
 
 ![horizontal]({{site.baseurl}}/images/limosys-hrz.png)
 
-> 12.Sign and submit. (Drivers)
+> 12.Sign and submit. (Driverscd)
 
 ___
  Sign :black_nib: and click :point_down: ![start-btn]({{site.baseurl}}/images/submit.png)
