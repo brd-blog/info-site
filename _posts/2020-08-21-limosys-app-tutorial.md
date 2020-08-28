@@ -77,7 +77,7 @@ ___
 
 ![horizontal]({{site.baseurl}}/images/limosys-hrz.png)
 
-> 12.Sign and submit. (Driverscd)
+> 12. Driver sign and submit.
 
 ___
  Sign :black_nib: and click :point_down: ![start-btn]({{site.baseurl}}/images/submit.png)
