@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: THE DRIVER BLOG
-email: your-email@example.com
+name: the Driver relations department
+email: office@brooklyncab.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog covers Driver app download, information on requirements to sign up, and more.
 baseurl: "/info-site" # the subpath of your site, e.g. /blog
@@ -32,6 +33,7 @@ theme: jekyll-athena
 plugins:
   - jekyll-feed
   - jemoji
+demo_var: ENV_DEMO_VAR
 
 destination: public
 # Exclude from processing.
