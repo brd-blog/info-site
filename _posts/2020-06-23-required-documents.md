@@ -7,7 +7,7 @@ tags: docs
 youtubeId: ADWQ-QbPi_A
 ---
 
-<form action="mailto:office@brooklyncab.com" method="get" enctype="text/plain" autocomplete="on">
+<form action="mailto:office@brooklyncab.com" method="GET" enctype="text/plain" autocomplete="on">
 
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
