@@ -1,0 +1,34 @@
+
+<div class="container mx-auto clearfix mt-2 mt-lg-4 px-2">
+  <div class="form-group">
+    <form id="gform" name="gform" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/d/e/1FAIpQLSc2--kAVEkAZAMF97NCTulmeQNunQvn-hdfrV6IJrw0VxcVUw/formResponse?">
+      <label for="entry.1781500597">Your Name:</label>
+      <input class="form-control" type="text" name="entry.1781500597" id="entry.1781500597" placeholder="Your name" />
+      <label for="entry.297979220">Your Number:</label>
+      <input class="form-control" type="tel" id="entry.297979220" name="entry.297979220" placeholder="718-384-8000" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+      <label for="entry.1640447617">Your Number:</label>
+      <input class="form-control" type="email" name="entry.1640447617" id="entry.1640447617" placeholder="Your email" />
+      <label for="entry.1294135889">Your Number:</label>
+      <textarea class="form-control" type="text" name="entry.1294135889" id="entry.1294135889" placeholder="Your message"></textarea>
+      <label for="entry.file">Attachment:</label>
+      <input class="form-control" type="file" name="entry.file" id="entry.file" placeholder="Your file" />
+      <hr>
+      <input class="btn btn-primary" type="submit"/>
+      <input class="btn btn-primary" type="reset" />
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){}" ></iframe>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+     integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+     <script type="text/javascript">
+       var submitted= false;
+     </script>
+     <script type="text/javascript">
+       $('#gform').on('submit', function(e){
+         $('#gform *').fadeOut(2000);
+         $('#gform').prepend('Your submission has been processed. Thank you for your input. We will respond to your message within 48 business hours for signup requests. For questions, please call 718 384-1055.')
+       });
+     </script>
+  </div>
+</div>
