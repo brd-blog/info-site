@@ -1,0 +1,16 @@
+<div class="container mx-auto clearfix mt-2 mt-lg-4 px-2">
+  <div class="form-group">
+    <form id="gform" name="gform" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/d/e/1FAIpQLSc2--kAVEkAZAMF97NCTulmeQNunQvn-hdfrV6IJrw0VxcVUw/formResponse?">
+      <input for="entry.1781500597" class="form-control" type="text" name="entry.1781500597" placeholder="Your name" />
+      <input for="entry.297979220" class="form-control" type="tel" id="entry.297979220" name="entry.297979220" placeholder="718-384-8000" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+      <input for="entry.1640447617" class="form-control" type="email" name="entry.1640447617" placeholder="Your email" />
+      <textarea for="entry.1294135889" class="form-control" type="text" name="entry.1294135889" placeholder="Your message">Your message</textarea>
+      <input class="form-control" type="file" name="file" placeholder="Your file" />
+      <hr>
+      <input class="btn btn-primary" type="submit"/>
+      <input class="btn btn-primary" type="reset" />
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){}" ></iframe>
+  </div>
+</div>
