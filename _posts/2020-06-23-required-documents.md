@@ -7,7 +7,6 @@ tags: docs
 youtubeId: ADWQ-QbPi_A
 ---
 
-{% include form.html %}
 
 > Click the :point_right: [`link`](mailto:office@brooklyncab.com) :link: to send an email :email: with your name, phone number, and a short message that you are interested in signing up.  
 
