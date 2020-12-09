@@ -6,8 +6,11 @@ category: blog
 tags: docs
 youtubeId: ADWQ-QbPi_A
 ---
+> Please complete the following form.
 
-> Click the :point_right: [`link`](mailto:office@brooklyncab.com) :link: to send an email :email: with your name, phone number, and a short message that you are interested in signing up.  
+{% include form.html %}
+
+> Click the :point_right: [`link`](mailto:office@brooklyncab.com) :link: to email your documents :open_file_folder:  
 
 > Required Documents
 
