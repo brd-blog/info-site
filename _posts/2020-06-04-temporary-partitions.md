@@ -6,6 +6,8 @@ category: blog
 tags: square
 ---
 
+{% include translate.html %}
+
 During the COVID-19 pandemic, the Taxi and Limousine Commission is allowing all vehicles without partitions the opportunity to have temporary partitions installed by approved partition installers. Traditionally, partitions have had to meet the technical requirements contained in the TLC’s rules. However, the TLC is temporarily easing restrictions to allow non-bulletproof partitions to be installed by approved installers.
 
 ## Visit [`built by bednark`](https://builtbybednark.com/) to make an appointment.

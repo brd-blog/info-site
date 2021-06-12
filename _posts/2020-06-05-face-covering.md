@@ -6,6 +6,8 @@ category: blog
 tags: mask
 ---
 
+{% include translate.html %}
+
 > Protect Yourself & others
 All TLC drivers and passengers must wear a face covering.
 
