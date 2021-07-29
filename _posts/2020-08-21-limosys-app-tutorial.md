@@ -6,8 +6,6 @@ category: blog
 tags: limosys
 ---
 
-{% include translate.html %}
-
 > 1.To start open the `Limosys` app, then press the start button on the top right of the screen.
 
 Open Limosys | Press :point_down: ![start-btn]({{site.baseurl}}/images/start-btn.png){: .btn}

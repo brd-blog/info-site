@@ -6,8 +6,6 @@ category: blog
 tags: apple
 ---
 
-{% include translate.html %}
-
 You’ll find a step by step tutorial in this post. You may also come to the office and ask for help and we'll assist you.
 
 How to install the `limosys` driver app on any `ios` device.
