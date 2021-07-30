@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a979103e-e849-4d2f-9643-5f4be61140a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-23-install-limosys-android.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-23-install-limosys-android.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-04-install-limosys-ios.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-04-install-limosys-ios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-04-temporary-partitions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-04-temporary-partitions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-05-face-covering.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-05-face-covering.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-21-limosys-app-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-21-limosys-app-tutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1trZYfJE2LHnFjsgS6yDCaqeAQT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a979103e-e849-4d2f-9643-5f4be61140a2" name="Default Changelist" comment="" />
+      <created>1623529219496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623529219496</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<div class="container mx-auto clearfix mt-2 mt-lg-4 px-2">
+  <div class="form-group">
+    <form id="gform" name="gform" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeGCYSyRAWVfg6BB3scOGU5BK2L5nr4Oj3773s1vjWVaLD_eg/formResponse" method="POST">
+      <label for="entry.1781500597">Your Name:</label>
+      <input class="form-control" type="text" name="entry.1781500597" id="entry.1781500597" placeholder="Your name" />
+      <label for="entry.297979220">Your Number:</label>
+      <input class="form-control" type="text" name="entry.297979220" placeholder="718-384-8000">
+      <label for="entry.1640447617">Your Email:</label>
+      <input class="form-control" type="email" name="entry.1640447617" placeholder="Your email" />
+      <label for="entry.1078004677">Comments:</label>
+      <textarea class="form-control" type="text" name="entry.1078004677" placeholder="Your message"></textarea>
+      <label>Mobile operating system:</label><br>
+      <input type="radio" id="ios" name="entry.1957462883" value="ios">
+      <label for="ios">IOS</label><br>
+      <input type="radio" id="android" name="entry.1957462883" value="android">
+      <label for="android">Andriod</label><br>
+      <hr>
+      <input class="btn btn-primary" type="submit" value="submit"/>
+      <input class="btn btn-primary" type="reset" />
+    </form>
+
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){}" ></iframe>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+     integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+     <script type="text/javascript">
+       var submitted= false;
+     </script>
+     <script type="text/javascript">
+       $('#gform').on('submit', function(e){
+         $('#gform *').fadeOut(2000);
+         $('#gform').prepend('<p style="color:#5db85b">Thank you for reaching out to us. We will respond to your message within 48 business hours for signup requests. For questions, please call 718 384-1055.</p>')
+       });
+     </script>
+  </div>
+</div>
