@@ -64,11 +64,11 @@ _[`** Click here for more info on Congestion Surcharge **`](https://www1.nyc.gov
 
 ---
 
-> TLC For-Hire-Vehicle-Permit Report
+> TLC For-Hire-Vehicle-Inspection Report
 
 ![documents]({{site.baseurl}}/images/fhv.png)
 
-> _Do not send the windshield sticker picture_
+> Windshield sticker picture
 
 ![documents]({{site.baseurl}}/images/fhv-sticker.png)
 
