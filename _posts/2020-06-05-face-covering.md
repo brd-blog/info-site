@@ -11,7 +11,7 @@ All TLC drivers and passengers must wear a face covering.
 
 ![documents]({{site.baseurl}}/images/man-in-medical-mask.jpg)
 
-![documents]({{site.baseurl}}/images/face-mask-on-luggage.jpg)
+![documents]({{site.baseurl}}/images/face-mask-on.jpg)
 
 > You can use a homemade mask, bandana, or a scarf.
 
