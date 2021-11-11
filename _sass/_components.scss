@@ -94,6 +94,12 @@ code {
     border: 1.5px solid #d7d5d1;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
+  // Center Image tlc-logo
+  img[alt="tlc-logo"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 // Commercial Drivers License & TLC License
   img[alt="lic"] {
     border-radius: 20px;
